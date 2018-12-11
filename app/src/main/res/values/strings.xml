@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Car Repair Service</string>
+    <string name="no_internet_connection">ไม่สามารถเชื่อมต่อได้ในขณะนี้</string>
+    <string name="error">Error : %s</string>
+    <string name="loading">กำลังโหลด</string>
+    <string name="open_drawer">Open Menu</string>
+    <string name="close_drawer">Close Menu</string>
+
+    <!--Button-->
+    <string name="button_ok">ตกลง</string>
+    <string name="button_yes">ใช่</string>
+    <string name="button_no">ไม่ใช่</string>
+    <string name="button_cancel">ยกเลิก</string>
+    <string name="button_login">Login</string>
+
+    <!--Hint / Label-->
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+
+    <!--Enter Field-->
+    <string name="enter_username">กรุณากรอก Username</string>
+    <string name="enter_password">กรุณากรอก Password</string>
+
+
+    <!--Confirm-->
+    <string name="confirm_logout">คุณแน่ใจหรือที่จะออกจากระบบ ?</string>
+
+    <!--Error-->
+    <string name="error_login">Username หรือ Password ไม่ถุกต้อง!</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="menu_popup_gallery">คลังรูปภาพ</string>
+    <string name="menu_popup_camera">กล้องถ่ายรูป</string>
+    <string name="menu_popup_view_picture">ดูรูปภาพ</string>
+    <string name="menu_popup_choose_picture">เลือกรูปภาพ</string>
+    <string name="title_picture_action_title">ตัวเลือก</string>
+    <string name="title_choose_picture_from">เลือกรูปภาพจาก</string>
+    <string name="name">ชื่อ - นามสกุล</string>
+    <string name="birthday">วัน/เดือน/ปี เกิด</string>
+    <string name="address">ที่อยู่</string>
+    <string name="telephone">เบอร์โทรศัพท์</string>
+    <string name="user">ชื่อท่ใช้ในระบบ</string>
+    <string name="email">E-mail</string>
+    <string name="pass">รหัสผ่าน</string>
+    <string name="user_profile">ข้อมูลส่วนตัว</string>
+    <string name="history_service">ประวัติการจองคิว</string>
+</resources>

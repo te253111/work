@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/grooming_wash_group"
+        android:checkableBehavior="single">
+                <item
+                    android:id="@+id/menu1"
+                    android:title="ข้อมูลส่วนตัว" />
+                <item
+                    android:id="@+id/menu2"
+                    android:title="ประวัติการจองคิว" />
+                <item
+                    android:id="@+id/menu3"
+                    android:title="คะแนนสะสม" />
+                <item
+                    android:id="@+id/menu4"
+                    android:title="คำนวณ" />
+                <item
+                    android:id="@+id/menu5"
+                    android:title="สินค้า" />
+                <item
+                    android:id="@+id/menu6"
+                    android:title="ข่าวสาร" />
+    </group>
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_logout"
+            android:title="@string/menu_logout" />
+    </group>
+
+
+</menu>

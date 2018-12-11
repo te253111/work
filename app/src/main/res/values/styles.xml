@@ -1,0 +1,64 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.FullScreen" parent="Theme.AppCompat.Light.NoActionBar"></style>
+
+    <style name="MyLabel.TextView" parent="android:Widget.TextView">
+        <item name="android:layout_marginLeft">@dimen/padding_8</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!--Button Style-->
+    <style name="Base.Button" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+    </style>
+
+
+    <style name="Button.SignIn" parent="Base.Button">
+        <item name="colorButtonNormal">#1f98ae</item>
+    </style>
+
+    <style name="Button.Transparent" parent="Base.Button">
+        <item name="colorButtonNormal">#56d6d6d6</item>
+    </style>
+
+
+    <style name="Button.Primary" parent="Base.Button">
+        <item name="colorButtonNormal">#6D92FE</item>
+    </style>
+
+    <style name="Button.Default" parent="Base.Button">
+        <item name="colorButtonNormal">#797979</item>
+    </style>
+
+    <style name="Button.Warning" parent="Base.Button">
+        <item name="colorButtonNormal">#EEB560</item>
+    </style>
+
+    <style name="Button.Danger" parent="Base.Button">
+        <item name="colorButtonNormal">#CF5A78</item>
+    </style>
+
+    <style name="Button.Success" parent="Base.Button">
+        <item name="colorButtonNormal">#60D271</item>
+    </style>
+
+
+</resources>

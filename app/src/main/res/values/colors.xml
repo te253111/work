@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#297bc1</color>
+    <color name="colorPrimaryDark">#115692</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="text">#ffffff</color>
+    <color name="primary">#297bc1</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="accent">#ffffff</color>
+    <color name="fragment_bg">#e5e5e5</color>
+    <color name="icon_enabled">#FFFFFFFF</color>
+    <color name="icon_disabled">#FF63727B</color>
+    <color name="text_enabled">#FFFFFFFF</color>
+    <color name="text_disabled">#4DFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="overlay_color">#80000000</color>
+
+
+    <color name="primary_light">#d2d6d6</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+
+    <color name="light_grey2">#DDD</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="red">#FF8083</color>
+    <color name="green">#B3FFBA</color>
+    <color name="orange">#FEE378</color>
+
+    <color name="blue_sky">#CCFFFF</color>
+    <color name="pink">#FF99FF</color>
+
+    <!--Status Label-->
+    <color name="order_save">#c49f30</color>
+    <color name="order_confirm">#3b66c1</color>
+    <color name="order_cancel">#646464</color>
+    <color name="order_paid">#3bc158</color>
+
+    <color name="table_available">#3bc158</color>
+    <color name="table_not_available">#c13b3d</color>
+    <color name="black">#000000</color>
+</resources>
+
